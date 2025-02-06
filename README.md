@@ -7,7 +7,7 @@
 
 - 🔭 I’m Student At **Abdelhamid mehri University**
 
-- 🌱 I’m currently learning **Node js Django**
+- 🌱 I’m currently learning **Node js Django Data Science  Machine Learning**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mehdi-bidjed-zerbita-11346730b/](https://www.linkedin.com/in/mehdi-bidjed-zerbita-11346730b/)
 
