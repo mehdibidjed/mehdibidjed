@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi Bidjed</h1>
-<h3 align="center">Front End devolopper</h3>
+<h4 align="center">ٍSoftware Engineer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdibidjed&label=Profile%20views&color=0e75b6&style=flat" alt="mehdibidjed" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m Student At **Abdelhamid mehri University**
 
-- 🌱 I’m currently learning **Node js Django Data Science  Machine Learning**
+- 🌱 I am **Full Stack Developper,ML Engineer **
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mehdi-bidjed-zerbita-11346730b/](https://www.linkedin.com/in/mehdi-bidjed-zerbita-11346730b/)
 
-- 💬 Ask me about **react ,python,java,Data Structure**
+- 💬 Ask me about **react ,python,java,C,Data Science , ML**
 
-- 📫 How to reach me **mehdibidjed25@gmail.com**
+- 📫 How to reach me **mehdibidjed25@gmail.com* or +213770970629*
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mehdi-bidjed-zerbita-11346730b/](https://www.linkedin.com/in/mehdi-bidjed-zerbita-11346730b/)
 
